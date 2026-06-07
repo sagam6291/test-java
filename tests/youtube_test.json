@@ -1,0 +1,9 @@
+{
+  "test_case_id": "tc_131b562d2d7d",
+  "title": "youtube test",
+  "flow_name": "test_youtube_navigate_subscriptions_then_movies_20260604_100459.py",
+  "browser": "chrome",
+  "lang": "python",
+  "source_file": "tests/youtube_test.py",
+  "created_at": "2026-06-04T10:17:21.112000"
+}
