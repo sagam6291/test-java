@@ -1,0 +1,28 @@
+{
+  "project_id": "proj_0e937291b02f",
+  "name": "github requirement text",
+  "description": "",
+  "os": "windows",
+  "os_version": "win11",
+  "default_browser": "chrome",
+  "test_case_count": 2,
+  "pushed_at": "2026-06-07T09:02:04.343014",
+  "test_cases": [
+    {
+      "test_case_id": "tc_131b562d2d7d",
+      "title": "youtube test",
+      "flow_name": "test_youtube_navigate_subscriptions_then_movies_20260604_100459.py",
+      "browser": "chrome",
+      "lang": "python",
+      "file": "tests/youtube_test.py"
+    },
+    {
+      "test_case_id": "tc_19d60527c564",
+      "title": "test java new",
+      "flow_name": "YoutubeMoviesShowMoreNavigationTest_20260607_085559.java",
+      "browser": "chrome",
+      "lang": "java",
+      "file": "tests/test_java_new.java"
+    }
+  ]
+}
